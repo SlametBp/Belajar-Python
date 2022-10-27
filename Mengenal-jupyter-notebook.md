@@ -5,7 +5,9 @@ Jupyter Notebook memungkinkan untuk mengintegrasikan antara kode dengan output d
 Jupyter Notebook sudah otomatis terinstall ketika kita telah menginstall python dengan anaconda. 
 Jika menginstall python tidak melalui anaconda maka anda harus install terlebih dahulu dengan "pip" atau "conda".
 
+```python
 pip install jupyter
+```
 
 ## Menjalankan Jupyter Notebook
 Cara menjalankan Jupyter Notebook adalah dengan mengetik jupyter notebook di terminal.
