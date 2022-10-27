@@ -7,7 +7,7 @@ Jika menginstall python tidak melalui anaconda maka anda harus install terlebih 
 
 pip install jupyter
 
-# Menjalankan Jupyter Notebook
+## Menjalankan Jupyter Notebook
 Cara menjalankan Jupyter Notebook adalah dengan mengetik jupyter notebook di terminal.
 upyter Notebook diakses melalui browser. Saat servis dijalankan anda akan diarahkan ke halaman browser pada alamat http://localhost:8888/tree
 Halaman Jupyter Notebook akan muncul di lokasi folder dimana kita menjalankan sintaks jupyter notebook.
